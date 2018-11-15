@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ShowDetailViewFromListViewController.cs](./CS/WinWebSolution.Module/ShowDetailViewFromListViewController.cs) (VB: [ShowDetailViewFromListViewController.vb](./VB/WinWebSolution.Module/ShowDetailViewFromListViewController.vb))
+<!-- default file list end -->
 # How to prevent a DetailView from being shown for a ListView record
 
 
